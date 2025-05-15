@@ -1,0 +1,238 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+
+}
+
+.menu {
+    width: 1440px;
+    height: 1024px;
+    background-image: url(1\ rasm.png);
+    width: 1440px;
+    height: 1020px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+}
+
+.nav {
+    width: 1440px;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    padding-top: 30px;
+    padding-left: 52px;
+}
+
+.btn1 {
+    background: #009FF5B5;
+    width: 243px;
+    height: 50px;
+    color: white;
+    margin-left: 68px;
+    border: none;
+    border-radius: 5px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    gap: 21px;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+.gap {
+    margin-top: 14px;
+    margin-left: 35px;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: white;
+}
+
+.it {
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-top: 14px;
+    margin-left: 463px;
+    color: white;
+}
+
+.strelka {
+    width: 20px;
+    height: 12px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.players {
+    width: 604px;
+    height: 103px;
+    margin-top: 163px;
+    margin-left: 443px;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    background: #FFC611;
+    border: 11px solid #5A5555;
+    border-radius: 50px;
+}
+
+.simple {
+    width: 361px;
+    height: 420px;
+    background: #1F1F1F;
+    margin-top: 132px;
+    text-align: center;
+}
+
+.SIMPLEE {
+    margin-top: 15px;
+}
+
+.playerss {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 52px;
+    padding-right: 52px;
+}
+
+main {
+    margin: 0 auto;
+}
+
+.main_container {
+    width: 1440px;
+    height: 1200px;
+    background-color: #000000;
+}
+
+.entring {
+    padding-top: 61px;
+    padding-left: 577px;
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #5A5555;
+    text-shadow: 2px 3px white;
+}
+
+.informations1 {
+    display: flex;
+    margin-top: 58px;
+    margin-left: 58px;
+    color: white;
+    gap: 87px;
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 27px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.btn5 {
+    width: 278px;
+    height: 61px;
+    margin-left: 750px;
+    margin-right: 464px;
+    color: white;
+    background-color: #5e5757;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    box-shadow: 5px 5px 20px 5px white;
+
+}
+
+.menuil {
+    margin-left: 1000px;
+    margin-right: 50px;
+    width: 56.92px;
+    height: 93px;
+
+
+}
+
+.contannier {
+    width: 1440px;
+    height: 124px;
+
+}
+
+.infore {
+    color: white;
+    display: flex;
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-left: 58px;
+    margin-top: 58px;
+}
+
+.konnn {
+    width: 572px;
+    height: 304px;
+    margin-left: 79px;
+    margin-right: 70px;
+    margin-bottom: 1850px;
+
+}
+
+.btn5l {
+    width: 278px;
+    height: 61px;
+    margin-top: 95px;
+    margin-left: 150px;
+    font-family: Roboto;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    box-shadow: 5px 5px 20px 5px white;
+    background-color: #FFC200;
+}
+
+.heelo {
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 26px;
+    width: 1440px;
+    height: 130px;
+    background-color: #FFC611;
+}
+
+.loog {
+    width: 101px;
+    height: 55px;
+}
+
+.tel {
+    width: 45px;
+    height: 45px;
+    margin-left: 1024px;
+}
